@@ -1,3 +1,3 @@
 ===============
-~GroceryListTest~
+GroceryListTest
 Stuff
